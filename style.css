@@ -1,0 +1,15 @@
+body{
+  background-color: skyblue;
+  color: white;
+}
+
+#img-caption{
+  width: 400px;
+}
+
+#image{
+  align: center;
+  height: auto;
+  max-width: 100%;
+  display: block;
+}
